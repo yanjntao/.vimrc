@@ -114,3 +114,4 @@ let g:tmuxline_preset = {
             \'z'    : '#H'}
 
 let g:echodoc_enable_at_startup=1
+#test git
